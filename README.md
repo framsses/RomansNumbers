@@ -23,4 +23,4 @@ The project was designed in Python.
 Python 3.8.10
 ```
 ## Versioning
-1.0.0
+0.1.0
